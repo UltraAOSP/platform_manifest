@@ -551,4 +551,6 @@
   <!-- LAOS additions -->
   <include name="manifests/laos.xml"/>
 
+  <!-- AOST additions -->
+  <include name="manifests/aost.xml"/>
 </manifest>

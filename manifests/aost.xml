@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="UltraAOST/platform_frameworks_av" path="frameworks/av" remote="github" revision="n-mr2" />
+  <project name="UltraAOST/platform_frameworks_base" path="frameworks/base" remote="github" revision="n-mr2" />
+  <project name="UltraAOST/platform_frameworks_native" path="frameworks/native" remote="github" revision="n-mr2" />
+  <project name="UltraAOST/platform_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="github" revision="n-mr2" />
+  <project name="UltraAOST/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="n-mr2" />
+  <project name="UltraAOST/platform_system_core" path="system/core" remote="github" revision="n-mr2" />
+  <project name="UltraAOST/platform_vendor_aosp" path="vendor/aosp" remote="github" revision="n-mr2" />
+  <project name="UltraAOST/platform_hardware_libhardware" path="hardware/libhardware" remote="github" revision="n-mr2" />
+  <project name="UltraAOST/platform_packages_services_Telephony" path="packages/services/Telephony" remote="github" revision="n-mr2"/>
+  <project name="UltraAOST/platform_packages_services_Telecomm" path="packages/services/Telecomm" remote="github" revision="n-mr2" />
+</manifest>
