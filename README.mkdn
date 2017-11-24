@@ -1,5 +1,11 @@
-AOSP-CAF
-===========
+[1]: https://raw.githubusercontent.com/UltraAOST/platform_manifests/n-mr2/logo.png
+
+![1]
+
+UltraDevs Team
+==============
+ANDROID OPEN SOURCE THUNDER!
+============================
 
 Getting Started
 ---------------
@@ -7,9 +13,9 @@ Getting Started
 To get started with Android, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the AOSP-CAF trees, use a command like this:
+To initialize your local repository using the UltraAOST trees, use a command like this:
 
-    repo init -u https://github.com/AOSP-CAF/platform_manifest.git -b n-mr2
+    repo init -u https://github.com/UltraAOST/platform_manifests.git -b n-mr2
 
 Then to sync up:
 
