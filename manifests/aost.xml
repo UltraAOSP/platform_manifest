@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="UltraAOST/platform_frameworks_av" path="frameworks/av" remote="github" revision="n-mr2" />
-  <project name="UltraAOST/platform_frameworks_base" path="frameworks/base" remote="github" revision="n-mr2" />
-  <project name="UltraAOST/platform_frameworks_native" path="frameworks/native" remote="github" revision="n-mr2" />
-  <project name="UltraAOST/platform_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="github" revision="n-mr2" />
-  <project name="UltraAOST/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="n-mr2" />
-  <project name="UltraAOST/platform_system_core" path="system/core" remote="github" revision="n-mr2" />
-  <project name="UltraAOST/platform_vendor_aosp" path="vendor/aosp" remote="github" revision="n-mr2" />
-  <project name="UltraAOST/platform_hardware_libhardware" path="hardware/libhardware" remote="github" revision="n-mr2" />
-  <project name="UltraAOST/platform_packages_services_Telephony" path="packages/services/Telephony" remote="github" revision="n-mr2"/>
-  <project name="UltraAOST/platform_packages_services_Telecomm" path="packages/services/Telecomm" remote="github" revision="n-mr2" />
+  <project path="art" name="UltraAOST/platform_art" remote="github" revision="n-mr2" />
+  <project path="build" name="UltraAOST/platform_build" remote="github" revision="n-mr2" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+  <project path="bionic" name="UltraAOST/platform_bionic" remote="github" revision="n-mr2" />
+  <project path="frameworks/av" name="UltraAOST/platform_frameworks_av" remote="github" revision="n-mr2" />
+  <project path="frameworks/base" name="UltraAOST/platform_frameworks_base" remote="github" revision="n-mr2" />
+  <project path="frameworks/native" name="UltraAOST/platform_frameworks_native" remote="github" revision="n-mr2" />
+  <project path="frameworks/opt/telephony" name="UltraAOST/platform_frameworks_opt_telephony" remote="github" revision="n-mr2" />
+  <project path="frameworks/opt/net/wifi" name="UltraAOST/platform_frameworks_opt_net_wifi" remote="github" revision="n-mr2" />
+  <project path="frameworks/opt/hardware" name="UltraAOST/platform_frameworks_opt_hardware" remote="github" revision="n-mr2" />
+  <project path="frameworks/opt/net/ims" name="platform/frameworks/opt/net/ims" groups="frameworks_ims,pdk-cw-fs,pdk-fs" />
+  <project path="hardware/ril" name="UltraAOST/platform_hardware_ril" remote="github" revision="n-mr2" />
+  <project path="hardware/ril-caf" name="UltraAOST/platform_hardware_ril" remote="github" revision="n-mr2-caf" />
+  <project path="hardware/libhardware" name="UltraAOST/platform_hardware_libhardware" remote="github" revision="n-mr2" />
+  <project path="hardware/libhardware_legacy" name="UltraAOST/platform_hardware_libhardware_legacy" remote="github" revision="n-mr2" />
+  <project path="packages/apps/Settings" name="UltraAOST/platform_packages_apps_Settings" remote="github" revision="n-mr2" />
+  <project path="packages/providers/TelephonyProvider" name="UltraAOST/platform_packages_providers_TelephonyProvider" remote="github" revision="n-mr2" />
+  <project path="packages/services/Telecomm" name="UltraAOST/platform_packages_services_Telecomm" remote="github" revision="n-mr2" />
+  <project path="packages/services/Telephony" name="UltraAOST/platform_packages_services_Telephony" remote="github" revision="n-mr2" />
+  <project path="external/jemalloc" name="UltraAOST/platform_external_jemalloc" remote="github" revision="n-mr2" />
+  <project path="external/tinyalsa" name="UltraAOST/platform_external_tinyalsa" remote="github" revision="n-mr2" />
+  <project path="external/tinycompress" name="UltraAOST/platform_external_tinycompress" remote="github" revision="n-mr2" />
+  <project path="external/wpa_supplicant_8" name="UltraAOST/platform_external_wpa_supplicant_8" remote="github" revision="n-mr2" />
+  <project path="system/bt" name="UltraAOST/platform_system_bt" remote="github" revision="n-mr2" />
+  <project path="system/extras" name="UltraAOST/platform_system_extras" remote="github" revision="n-mr2" />
+  <project path="system/core" name="UltraAOST/platform_system_core" remote="github" revision="n-mr2" />
+  <project path="system/media" name="UltraAOST/platform_system_media" remote="github" revision="n-mr2" />
+  <project path="system/sepolicy" name="UltraAOST/platform_system_sepolicy" remote="github" revision="n-mr2" />
+  <project path="system/vold" name="UltraAOST/platform_system_vold" remote="github" revision="n-mr2" />
+  <project path="system/qcom" name="UltraAOST/android_system_qcom" groups="qcom" remote="github" revision="n-mr2" />  
+  <project path="vendor/aosp" name="UltraAOST/platform_vendor_aosp" remote="github" revision="n-mr2" />
 </manifest>

@@ -545,6 +545,9 @@
   <project name="platform/vendor/qcom/titanium_64" path="device/qcom/msm8953_64" />
   <project name="toolchain/binutils" />
 
+  <!-- REMOVES -->
+  <include name="manifests/remove.xml" />
+
   <!-- AOSP-CAF additions -->
   <include name="manifests/aospcaf.xml"/>
 
