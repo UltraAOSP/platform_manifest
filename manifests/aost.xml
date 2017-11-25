@@ -15,7 +15,6 @@
   <project path="hardware/libhardware" name="UltraAOST/platform_hardware_libhardware" remote="github" revision="n-mr2" />
   <project path="hardware/libhardware_legacy" name="UltraAOST/platform_hardware_libhardware_legacy" remote="github" revision="n-mr2" />
   <project path="packages/apps/Settings" name="UltraAOST/platform_packages_apps_Settings" remote="github" revision="n-mr2" />
-  <project path="packages/providers/TelephonyProvider" name="UltraAOST/platform_packages_providers_TelephonyProvider" remote="github" revision="n-mr2" />
   <project path="packages/services/Telecomm" name="UltraAOST/platform_packages_services_Telecomm" remote="github" revision="n-mr2" />
   <project path="packages/services/Telephony" name="UltraAOST/platform_packages_services_Telephony" remote="github" revision="n-mr2" />
   <project path="external/jemalloc" name="UltraAOST/platform_external_jemalloc" remote="github" revision="n-mr2" />
