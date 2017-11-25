@@ -10,8 +10,6 @@
   <project path="frameworks/native" name="UltraAOST/platform_frameworks_native" remote="github" revision="n-mr2" />
   <project path="frameworks/opt/telephony" name="UltraAOST/platform_frameworks_opt_telephony" remote="github" revision="n-mr2" />
   <project path="frameworks/opt/net/wifi" name="UltraAOST/platform_frameworks_opt_net_wifi" remote="github" revision="n-mr2" />
-  <project path="frameworks/opt/hardware" name="UltraAOST/platform_frameworks_opt_hardware" remote="github" revision="n-mr2" />
-  <project path="frameworks/opt/net/ims" name="platform/frameworks/opt/net/ims" groups="frameworks_ims,pdk-cw-fs,pdk-fs" />
   <project path="hardware/ril" name="UltraAOST/platform_hardware_ril" remote="github" revision="n-mr2" />
   <project path="hardware/ril-caf" name="UltraAOST/platform_hardware_ril" remote="github" revision="n-mr2-caf" />
   <project path="hardware/libhardware" name="UltraAOST/platform_hardware_libhardware" remote="github" revision="n-mr2" />
