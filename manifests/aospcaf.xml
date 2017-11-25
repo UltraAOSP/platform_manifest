@@ -17,7 +17,6 @@
   <project name="platform_external_okhttp" path="external/okhttp" remote="aosp-caf" />
   <project name="platform_external_toybox" path="external/toybox" remote="aosp-caf" />
   <project name="platform_external_zlib" path="external/zlib" remote="aosp-caf" />
-  <project name="platform_frameworks_opt_net_wifi" path="frameworks/opt/net/wifi" remote="aosp-caf" />
   <project name="platform_hardware_qcom_bt" path="hardware/qcom/bt-caf" remote="aosp-caf" />
   <project name="platform_hardware_qcom_keymaster" path="hardware/qcom/keymaster" remote="aosp-caf" />
   <project name="platform_hardware_qcom_wlan" path="hardware/qcom/wlan-caf" remote="aosp-caf" />
