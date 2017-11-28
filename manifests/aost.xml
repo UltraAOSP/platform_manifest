@@ -5,7 +5,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="UltraAOST/platform_bionic" remote="github" revision="n-mr2" />
-  <project name="platform_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="n-mr2" />
+  <project name="UltraAOST/platform_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="n-mr2" />
   <project path="frameworks/av" name="UltraAOST/platform_frameworks_av" remote="github" revision="n-mr2" />
   <project path="frameworks/base" name="UltraAOST/platform_frameworks_base" remote="github" revision="n-mr2" />
   <project path="frameworks/native" name="UltraAOST/platform_frameworks_native" remote="github" revision="n-mr2" />
