@@ -19,7 +19,7 @@
   <project path="packages/services/Telecomm" name="UltraAOST/platform_packages_services_Telecomm" remote="github" revision="n-mr2" />
   <project path="packages/services/Telephony" name="UltraAOST/platform_packages_services_Telephony" remote="github" revision="n-mr2" />
   <project path="external/jemalloc" name="UltraAOST/platform_external_jemalloc" remote="github" revision="n-mr2" />
-  <project name="platform_external_skia" path="external/skia" remote="github" revision="n-mr2" />
+  <project name="UltraAOST/platform_external_skia" path="external/skia" remote="github" revision="n-mr2" />
   <project path="external/tinyalsa" name="UltraAOST/platform_external_tinyalsa" remote="github" revision="n-mr2" />
   <project path="external/tinycompress" name="UltraAOST/platform_external_tinycompress" remote="github" revision="n-mr2" />
   <project path="external/wpa_supplicant_8" name="UltraAOST/platform_external_wpa_supplicant_8" remote="github" revision="n-mr2" />
