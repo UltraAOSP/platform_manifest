@@ -23,6 +23,7 @@
   <project path="external/wpa_supplicant_8" name="UltraAOST/platform_external_wpa_supplicant_8" remote="github" revision="n-mr2" />
   <project path="system/bt" name="UltraAOST/platform_system_bt" remote="github" revision="n-mr2" />
   <project path="system/extras" name="UltraAOST/platform_system_extras" remote="github" revision="n-mr2" />
+  <project path="system/netd" name="UltraAOST/platform_system_netd" remote="github" revision="n-mr2" />
   <project path="system/core" name="UltraAOST/platform_system_core" remote="github" revision="n-mr2" />
   <project path="system/media" name="UltraAOST/platform_system_media" remote="github" revision="n-mr2" />
   <project path="system/sepolicy" name="UltraAOST/platform_system_sepolicy" remote="github" revision="n-mr2" />
