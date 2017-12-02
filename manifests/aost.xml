@@ -32,6 +32,6 @@
   <project path="system/vold" name="UltraAOST/platform_system_vold" remote="github" revision="n-mr2" />
   <project path="system/qcom" name="UltraAOST/android_system_qcom" groups="qcom" remote="github" revision="n-mr2" />  
   <project path="vendor/aosp" name="UltraAOST/platform_vendor_aosp" remote="github" revision="n-mr2" />
-  <project name="UltraAOST/_platform_packages_apps_ParanoidCamera" path="packages/apps/ParanoidCamera" remote="github" revision="n-mr2"/>
+  <project name="UltraAOST/platform_packages_apps_ParanoidCamera" path="packages/apps/ParanoidCamera" remote="github" revision="n-mr2"/>
   <project name="UltraAOST/platform_packages_apps_Dialer" path="packages/apps/Dialer" remote="github" revision="n-mr2" />
 </manifest>
