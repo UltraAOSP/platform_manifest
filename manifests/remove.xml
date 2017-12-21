@@ -90,14 +90,19 @@
 
   <remove-project groups="pdk-fs" name="platform/packages/apps/Browser2" path="packages/apps/Browser2" />
   <remove-project groups="pdk-fs" name="platform/packages/apps/Camera" path="packages/apps/Camera" />
+  <remove-project groups="pdk-fs" name="platform/packages/apps/Camera2" path="packages/apps/Camera2" />
   <remove-project name="platform/packages/apps/CMFileManager" path="packages/apps/CMFileManager" />
   <remove-project name="platform/packages/apps/DevCamera" path="packages/apps/DevCamera" />
   <remove-project groups="pdk-fs" name="platform/packages/apps/Gallery" path="packages/apps/Gallery" />
+  <remove-project groups="pdk-fs" name="platform/packages/apps/Gallery2" path="packages/apps/Gallery2" />
   <remove-project groups="pdk-fs" name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" />
   <remove-project groups="pdk-fs" name="platform/packages/apps/LegacyCamera" path="packages/apps/LegacyCamera" />
   <remove-project groups="pdk-fs" name="platform/packages/apps/Music" path="packages/apps/Music" />
   <remove-project groups="pdk-fs" name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" />
   <remove-project groups="pdk-fs" name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn" />
+  <remove-project name="platform/packages/apps/Mms" path="packages/apps/Mms" />
+  <remove-project groups="pdk-fs" name="platform/packages/apps/Music" path="packages/apps/Music" />
+  <remove-project name="platform/packages/apps/SnapdragonLauncher" path="packages/apps/SnapdragonLauncher" />
 
   <!-- REMOVE PROJECTS -->
 
