@@ -101,7 +101,6 @@
   <remove-project groups="pdk-fs" name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" />
   <remove-project groups="pdk-fs" name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn" />
   <remove-project name="platform/packages/apps/Mms" path="packages/apps/Mms" />
-  <remove-project groups="pdk-fs" name="platform/packages/apps/Music" path="packages/apps/Music" />
   <remove-project name="platform/packages/apps/SnapdragonLauncher" path="packages/apps/SnapdragonLauncher" />
 
   <!-- REMOVE PROJECTS -->
