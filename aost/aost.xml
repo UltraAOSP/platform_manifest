@@ -108,7 +108,7 @@
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="aost" />
 
   <!-- Prebuilts -->
-  <project path="prebuilts/build-tools" name="prebuilts_build-tools" remote="aost" clone-depth="1" />
+<!--  <project path="prebuilts/build-tools" name="prebuilts_build-tools" remote="aost" clone-depth="1" />-->
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="aost" />
