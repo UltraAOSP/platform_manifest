@@ -705,9 +705,9 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
   <!-- Remove unused AOSP repos -->
-  <include name="junks/remove.xml" />
+  <include name="aost/remove.xml" />
 
   <!-- Add all aost repos -->
-  <include name="junks/aost.xml" />
+  <include name="aost/aost.xml" />
 
 </manifest>
