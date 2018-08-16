@@ -1,3 +1,19 @@
+[1]: https://raw.githubusercontent.com/UltraAOST/platform_manifests/n-mr2/logo.png
+
+![1]
+
+UltraDevs Team
+==============
+ANDROID OPEN SOURCE THUNDER!
+============================
+
+WORK IN PROGRESS, DON'T BUILD!!!
+
+Getting Started
+---------------
+
+To get started with Android, you'll need to get
+familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 ### Sync ###
 
@@ -23,3 +39,5 @@ $ lunch aosp_$device-userdebug
 # Build the code
 $ mka bacon -jX
 ```
+
+where X is the number of jobs you would like to allot to the build system.
