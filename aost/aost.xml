@@ -33,7 +33,7 @@
   <project path="hardware/qcom/thermal" name="hardware_qcom_thermal" remote="aost" />
   <project path="hardware/qcom/vr" name="hardware_qcom_vr" remote="aost" />
   <project path="hardware/qcom/wlan" name="hardware_qcom_wlan" remote="aost" />
-  <project path="hardware/qcom/wlan-caf" name="hardware_qcom_wlan" revision="pie-caf" remote="aost" />
+  <project path="hardware/qcom/wlan-caf" name="hardware_qcom_wlan" revision="pie" remote="aost" />
   <project path="hardware/ril" name="hardware_ril" remote="aost" />
   <project path="hardware/ril-caf" name="hardware_ril" revision="pie-caf" remote="aost" />
   <project path="system/qcom" name="system_qcom" remote="aost" />
@@ -88,8 +88,8 @@
   <project path="build/kati" name="build_kati" remote="aost" />
   <project path="bootable/recovery" name="bootable_recovery" remote="aost" />
   <project path="development" name="development" remote="aost" />
-  <project path="vendor/aosp" name="vendor_aosp" remote="aost" />
-  <project path="vendor/aost" name="vendor_aost" remote="aost" />
+<!--  <project path="vendor/aosp" name="vendor_aosp" remote="aost" />
+  <project path="vendor/aost" name="vendor_aost" remote="aost" />-->
 
   <!-- Hardware repos -->
   <project path="hardware/libhardware" name="hardware_libhardware" remote="aost" />
