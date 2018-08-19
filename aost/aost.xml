@@ -110,7 +110,7 @@
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="aost" />
 
   <!-- Prebuilts -->
-<!--  <project path="prebuilts/build-tools" name="prebuilts_build-tools" remote="aost" clone-depth="1" />-->
+  <project path="prebuilts/build-tools" name="prebuilts_build-tools" remote="aost" clone-depth="1" />
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="aost" />

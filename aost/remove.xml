@@ -141,6 +141,9 @@
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
 
+  <!-- Prebuilts -->
+  <remove-project name="platform/prebuilts/build-tools" />
+
   <!-- System repos -->
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/core" />
