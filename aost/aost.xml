@@ -107,6 +107,7 @@
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="aost" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="aost" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="aost" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="aost" />
 
   <!-- Prebuilts -->
 <!--  <project path="prebuilts/build-tools" name="prebuilts_build-tools" remote="aost" clone-depth="1" />-->
