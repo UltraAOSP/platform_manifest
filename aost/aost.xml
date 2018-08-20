@@ -111,6 +111,7 @@
 
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="prebuilts_build-tools" remote="aost" clone-depth="1" />
+  <project path="prebuilts/clang/host/linux-x86" name="prebuilts_clang_host_linux-x86" remote="aost" clone-depth="1" />
 
   <!-- Vedor files -->
   <project path="vendor/aost" name="vendor_aost" remote="aost" />
