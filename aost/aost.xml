@@ -112,6 +112,7 @@
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="aost" />
   <project path="packages/apps/Phonograph" name="packages_apps_Phonograph" remote="aost" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="aost" />
+  <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="aost" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="prebuilts_build-tools" remote="aost" clone-depth="1" />
