@@ -91,8 +91,6 @@
   <project path="build/kati" name="build_kati" remote="aost" />
   <project path="bootable/recovery" name="bootable_recovery" remote="aost" />
   <project path="development" name="development" remote="aost" />
-<!--  <project path="vendor/aosp" name="vendor_aosp" remote="aost" />
-  <project path="vendor/aost" name="vendor_aost" remote="aost" />-->
 
   <!-- Hardware repos -->
   <project path="hardware/libhardware" name="hardware_libhardware" remote="aost" />
