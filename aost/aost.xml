@@ -102,6 +102,8 @@
   <project path="packages/apps/CarrierConfig" name="packages_apps_CarrierConfig" remote="aost" />
   <project path="packages/apps/CellBroadcastReceiver" name="packages_apps_CellBroadcastReceiver" remote="aost" />
   <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="aost" />
+  <project path="packages/apps/SoundRecorder" name="packages_apps_SoundRecorder" remote="aost" />
+  <project path="packages/apps/Jelly" name="packages_apps_Jelly" remote="aost" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="aost" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="aost" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="aost" />
