@@ -93,6 +93,7 @@
   <project path="development" name="development" remote="aost" />
 
   <!-- Hardware repos -->
+  <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="aost" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="aost" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="aost" />
 
