@@ -5,6 +5,7 @@
   <remote name="lineage"
           fetch="https://github.com/LineageOS"
           revision="lineage-16.0" />
+  
   <remote name="aost"
           fetch="https://github.com/UltraAOST"
           revision="pie" />
@@ -128,7 +129,7 @@
   <!-- Vendor files -->
   <project path="vendor/aost" name="vendor_aost" remote="aost" />
 
-  <project path="device/qcom/sepolicy-legacy" name="device_qcom_sepolicy-legacy" remote="aost" />
+  <project path="device/qcom/sepolicy-legacy" name="android_device_qcom_sepolicy-legacy" remote="lineage" />
   
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="aost" />
