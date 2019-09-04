@@ -1,0 +1,39 @@
+[1]: https://raw.githubusercontent.com/UltraAOSP/platform_manifests/q-10/logo.png
+
+![1]
+
+
+
+Getting Started
+---------------
+
+To get started with Android, you'll need to get
+familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+
+### Sync ###
+
+```bash
+
+# Initialize local repository
+repo init -u https://github.com/UltraAOSP/platform_manifest -b q-10
+
+# Sync
+repo sync -c -jx --force-sync --no-clone-bundle --no-tags
+```
+
+### Build ###
+
+```bash
+
+# Set up environment
+$ . build/envsetup.sh
+
+# Choose a target
+$ lunch aosp_$device-userdebug
+
+# Build the code
+$ mka bacon -jX
+```
+
+where X is the number of jobs you would like to allot to the build system.
+
